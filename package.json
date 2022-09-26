@@ -4,7 +4,7 @@
   "description": "An example LINE bot just to echo messages",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node index.js"
   },
   "dependencies": {
     "@line/bot-sdk": "^7.3.0",
